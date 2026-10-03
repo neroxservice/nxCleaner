@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340"><defs>
+<pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<radialGradient id="r1" cx="1" cy="0" r="1"><stop offset="0" stop-color="#ff3ea5" stop-opacity=".30"/><stop offset="1" stop-color="#ff3ea5" stop-opacity="0"/></radialGradient>
+<radialGradient id="r2" cx="0" cy="1" r="1"><stop offset="0" stop-color="#2de1e6" stop-opacity=".26"/><stop offset="1" stop-color="#2de1e6" stop-opacity="0"/></radialGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#ff3ea5"/><stop offset=".5" stop-color="#9b5cff"/><stop offset="1" stop-color="#2de1e6"/></linearGradient>
+<filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="gt" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1280" height="340" rx="22" fill="#07070d"/><rect width="1280" height="340" rx="22" fill="url(#gr)"/><rect width="1280" height="340" rx="22" fill="url(#r1)"/><rect width="1280" height="340" rx="22" fill="url(#r2)"/>
+<rect x="1" y="1" width="1278" height="338" rx="21" fill="none" stroke="url(#ln)" stroke-opacity=".45" stroke-width="2"/>
+<g transform="translate(86 62) scale(.84)"><rect x="6" y="6" width="244" height="244" rx="56" fill="#0a0a14" stroke="url(#ln)" stroke-opacity=".6" stroke-width="3"/><g filter="url(#g)"><g><path d="M66 76h26l16 51-16 51H66l14-51z" fill="#ff3ea5"/><path d="M190 76h-26l-16 51 16 51h26l-14-51z" fill="#2de1e6"/><path d="M150 90l-11 73" stroke="#9b5cff" stroke-width="6.5" stroke-linecap="round"/></g></g></g>
+<g font-family="'Segoe UI Variable','Segoe UI',Inter,Arial,sans-serif">
+<text x="330" y="158" font-size="84" font-weight="800" filter="url(#gt)"><tspan fill="#ff3ea5">nx</tspan><tspan fill="#2de1e6">Cleaner</tspan></text>
+<text x="334" y="204" font-size="22" fill="#ececf8" letter-spacing="7" font-weight="600">STORAGE SUITE FÜR WINDOWS 11</text>
+<text x="334" y="240" font-size="17" fill="#7d7d99">Junk · Programme · Große Dateien · Dev-Müll · System-Tools</text>
+<g transform="translate(334 262)" font-size="13" font-weight="700" letter-spacing="1.5">
+<rect width="104" height="30" rx="15" fill="#ff3ea5" fill-opacity=".12" stroke="#ff3ea5" stroke-opacity=".6"/><text x="52" y="20" fill="#ff3ea5" text-anchor="middle">ELECTRON</text>
+<rect x="116" width="104" height="30" rx="15" fill="#2de1e6" fill-opacity=".12" stroke="#2de1e6" stroke-opacity=".6"/><text x="168" y="20" fill="#2de1e6" text-anchor="middle">WINDOWS</text>
+<rect x="232" width="84" height="30" rx="15" fill="#9b5cff" fill-opacity=".12" stroke="#9b5cff" stroke-opacity=".7"/><text x="274" y="20" fill="#b48cff" text-anchor="middle">V2</text></g>
+<text x="1196" y="296" font-size="13" fill="#7d7d99" text-anchor="end" letter-spacing="2">BY NEROX · NXSERVICE &amp; STREAMS</text></g></svg>
